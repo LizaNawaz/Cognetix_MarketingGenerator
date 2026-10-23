@@ -1,0 +1,13 @@
+case_id,product,features,audience,tone,platform,length,language,variations,use_examples
+1,Reusable bottle,Leak-resistant lid and reusable design,College students,Playful,Instagram,short,English,3,true
+2,Desk lamp,Adjustable brightness and compact base,Remote workers,Professional,LinkedIn,medium,English,2,true
+3,Online tutoring,Flexible sessions and subject choices,Parents,Informative,Email,medium,English,2,true
+4,Cotton tote bag,Reusable and lightweight,Students,Friendly,Instagram,short,English,3,false
+5,Project planner,Task lists and shared team views,Small teams,Professional,LinkedIn,long,English,2,false
+6,Meal container,Multiple compartments and reusable design,Office workers,Warm,Email,short,English,2,true
+7,Handmade notebook,Paper pages and compact size,Journal writers,Playful,Instagram,medium,English,3,true
+8,Appointment booking,Online booking and reminders,Local service businesses,Direct,LinkedIn,medium,English,2,false
+9,Language lessons,Beginner lessons and flexible practice,Adult learners,Encouraging,Email,medium,Hindi,2,true
+10,Wireless keyboard,Compact layout and rechargeable battery,Students,Informative,Instagram,short,English,3,false
+11,Reusable lunch bag,Washable exterior and carry handles,Commuters,Friendly,LinkedIn,long,English,2,true
+12,Digital invoice tool,Invoice templates and export options,Freelancers,Professional,Email,medium,English,3,false
